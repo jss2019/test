@@ -8,6 +8,7 @@ public class MySpringbootApp {
 
     public static void main(String[] args) {
         //run方法 表示运行SpringBoot的引导类 run参数就是SpringBoot引导类的字节码对象
+        //run方法
         SpringApplication.run(MySpringbootApp.class);
     }
 
